@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style>
+h1{font-family:"黑体";}
+h2{font-family:"黑体";}
+h3{font-family:"黑体";font-size:24px}
+p{font-family:"黑体";}
+li{font-family:"黑体";}
+form{font-family:"黑体";}
+input{font-family:"黑体"}
+textarea{font-family:"黑体"}
+
+</style>
+<title>无标题文档</title>
+</head>
+
+<body>
+
+<h1>网站一级标题</h1>
+
+<ul>
+<li><a href="http://ife.baidu.com/task/detail?taskId=1">导航链接一</a></li>
+<li><a href="http://ife.baidu.com/task/detail?taskId=1">导航链接二</a></li>
+<li><a href="http://ife.baidu.com/task/detail?taskId=1">导航链接三</a></li>
+<li><a href="http://ife.baidu.com/task/detail?taskId=1">导航链接四</a></li>
+</ul>
+
+<h2>文章一级标题</h2>
+
+<h3>文章二级标题</h3>
+
+<p>文章作者&nbsp;文章发表时间</p>
+
+<p>这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落换行了<br />
+这是一个很长的段落这是一个很长的段落这是一个很长的段落<br/>
+这是一个很长的段落这是一个很长的段落<a href="http://ife.baidu.com">这里有一个连接</a>这是一个很长的段落这是一个很长的段落<b>这里有一段粗体字</b>这是一个很长的段落这是一个很长的段落这是一个很长的段落</p>
+
+<img src="http://p0.so.qhimg.com/t017137ff3b537ed2aa.jpg"/>
+
+<p>这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落换行了</br>这是一个很长的段落这是一个很长的段落<b>这里是一段粗体字</b>这是一个很长的段落这是一个很长的段落<a href="http://ife.baidu.com" target="_blank">这里是一个在新页面打开的链接</a>这是一个很长的段落这是一个很长的段落这是一个很长的段落
+
+
+
+
+
+
+
+<h1>另一篇文章的一级标题</h1>
+
+<h2>二级标题</h2>
+
+<p>文章作者&nbsp;文章发表时间</p>
+
+<p>这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落这是一个很长的段落换行了<br />
+这是一个很长的段落这是一个很长的段落这是一个很长的段落<br/>
+这是一个很长的段落这是一个很长的段落<a href="http://ife.baidu.com">这里有一个连接</a>这是一个很长的段落这是一个很长的段落<b>这里有一段粗体字</b>这是一个很长的段落这是一个很长的段落这是一个很长的段落</p>
+
+<img src="http://p0.so.qhimg.com/t017137ff3b537ed2aa.jpg" />
+
+<ul>
+<li>项目列表一</li>
+<li>项目列表二</li>
+<li>项目列表三</li>
+<ul/>
+
+
+
+
+
+
+
+
+<h2>图片</h2>
+
+<p>宋仲基好帅哦</p>
+<img src="http://imgstore.cdn.sogou.com/app/a/100540002/535620.jpg"  width="500"/>
+<p>宋仲基好帅哦</p>
+<img src="http://pictv.dadou.com/upload/2014/03/22/201432216568295.png" width="500"/>
+<p>宋仲基好帅哦</p>
+<img src="http://img3.cache.netease.com/house/2016/2/29/20160229105615789e0.jpg" width="500"/>
+<p>宋仲基好帅哦</p>
+<img src="http://www.xineee.com/uploads/allimg/140625/25050628_430.png" width="500"/>
+<p>宋仲基好帅哦</p>
+<img src="http://p1.so.qhimg.com/t01289cfb0600ada9a1.jpg" width="500"/>
+
+
+
+
+
+
+
+
+<h2>最后一篇文章的一级标题</h2>
+
+<h3>文章二级标题</h3>
+
+<p>文章作者&nbsp;文章发表时间</p>
+
+<ol>
+<li>排名1</li>
+<li>排名2</li>
+<li>排名3</li>
+</ol>
+
+<p>下面是一个表格，给表格加border=”1“好让你看出来是一个表格</p>
+
+<table width="317" border="1">
+<tr>
+<td width="106">表头</td>
+<td width="105">表头</td>
+<td width="84">表头</td>
+</tr>
+<tr>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+<td>操作</td>
+</tr>
+<tr>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+<td>操作</td>
+</tr>
+<tr>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+<td>操作</td>
+</tr>
+<tr>
+<td>总计</td>
+<td colspan="2">1000</td>
+</tr>
+</table>
+
+<h3>这里以后是一个侧栏</h3>
+<h3>侧栏注册窗口的标题</h3>
+
+<form>
+请输入你的邮箱地址: 
+<input type="text" name="firstname" />
+<br />
+请正确输入
+<br/>请输入密码：
+<input type="text" name="lastname" />
+请重复：
+<input type="text" name="lastname" />
+<br/>
+秘密为6-16位数字或字母
+</form>
+
+<br/>
+
+<form name="input" action="html_form_action.asp" method="get">
+<input type="radio" name="sex" value="male" /> 男
+<input type="radio" name="sex" value="female" /> 女
+
+<select name="城市">
+<option value="北京">北京</option>
+<option value="上海">上海</option>
+<option value="广州">广州</option>
+<option value="昆明">昆明</option>
+</select>
+
+爱好：
+<input type="checkbox" value="sports" />
+运动
+<input type="checkbox" value="arts" />
+艺术
+<input type="checkbox"  value="science"/>
+科学
+<textarea rows="3" cols="30">这是一个多行输入框，请输入您的个人描述</textarea>
+<input type="submit" value="确认提交" />
+</form>
+
+<footer>版权所有&copy;by the team 编程上瘾要宋仲基抱抱</footer>
+
+</body>
+</html>
